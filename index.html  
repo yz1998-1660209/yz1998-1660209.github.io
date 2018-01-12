@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello World</title>
+    </head>
+    <body>
+        <h1>Hello World</h1>
+        <marquee behavior="scroll" direction="left">
+        <img src="http://www.animated-gifs.eu/category_flora/fruits-apricots-peaches/0012.gif">
+        </marquee>
+        <marquee behavior="scroll" direction="right">
+        <img src="http://www.animated-gifs.eu/category_flora/fruits-apricots-peaches/0012.gif">
+        </marquee>
+    <body background="http://a7.typepad.com/6a01bb0805c7f6970d01bb0866823f970d-800wi"  />
+    </body>
+</html>
