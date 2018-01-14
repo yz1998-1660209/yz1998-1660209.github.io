@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MEMES</title>
+
+    </head>
+
+
+    <body>
+        <h1 class ="italics"><i>WHAT ARE MEMES?</i></h1>
+        <p class ="sansserif, oblique">A meme is an idea, behavior, or style that spreads from person to person within a culture—often with the aim of conveying a particular phenomenon, theme, or meaning represented by the meme.</p>
+
+        <h1>FUNNY MEMES</h1>
+        <p>Salt Bae is a nickname given to Turkish chef Nusret Gökçe, who was widely discussed on social media following the circulation of a viral video in which he flamboyantly sprinkles salt on a carved steak.</p>
+   
+        <h2>Salt</h2>
+            <a href="https://vignette.wikia.nocookie.net/phobia/images/5/59/Salt.jpg/revision/latest?cb=20161130020451">
+                <img src="https://vignette.wikia.nocookie.net/phobia/images/5/59/Salt.jpg/revision/latest?cb=20161130020451" title="Salty" style= "width:50px;height:50x;margin:20px">
+                </a>
+
+        <h2>Bae</h2>
+            <a href="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/bae-heart-eyes-emoji-trill-art.jpg">
+                 <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/bae-heart-eyes-emoji-trill-art.jpg" title="Bae" style="width:50px;height:50px;margin:20px">
+                </a>
+        <div class="YUM">
+            img src="https://s3.amazonaws.com/elanaspantrylive/wp-content/uploads/2017/11/10111847/Vegan-Pumpkin-Pie.jpg" alt="Norway" style="width:100%">
+            <div class="centered">Centered</div>
+        </div>
+  
+    </body>
+
+<style>
+p.normal {
+    font-style: normal;
+}
+
+p.italic {
+    font-style: italic;
+}
+
+p.oblique {
+    font-style: oblique;
+}
+
+p.serif {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+</style>
+</html>
